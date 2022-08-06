@@ -1,4 +1,4 @@
-<a href="https://ibb.co/523wyTr"><img src="https://www.dropbox.com/s/nqpyv4sn3nsiq2c/GithubReadmeProduction.svg" alt="Github-Readme-Profile-1" border="0"></a>
+<img src="https://www.dropbox.com/s/nqpyv4sn3nsiq2c/GithubReadmeProduction.svg?dl=0" alt="Github-Readme-Profile-1" border="0">
 
 
 
