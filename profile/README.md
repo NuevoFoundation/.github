@@ -1,4 +1,4 @@
-<a href="https://ibb.co/vVGQkwp"><img src="https://i.ibb.co/FmM0zx2/Nuevo-Foundatio-Github-Readme-Profile.png" alt="Nuevo-Foundatio-Github-Readme-Profile" border="0"></a>
+<a href="https://ibb.co/vVGQkwp"><img src="https://i.ibb.co/FmM0zx2/Nuevo-Foundatio-Github-Readme-Profile.png" alt="Nuevo Foundatio Github Readme Profile Image"></a>
 
 <!--
 
