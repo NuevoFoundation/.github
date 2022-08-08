@@ -1,4 +1,4 @@
-![Nuevo Foundation Let's. Build. Something Epic.](https://cambiumfoundation.org/GithubReadmeProduction.svg) 
+![Nuevo Foundation Let's. Build. Something Epic.](https://nuevofoundationwebassets.blob.core.windows.net/team/GithubReadmeProduction.svg) 
 
 ## Get Involved
 
